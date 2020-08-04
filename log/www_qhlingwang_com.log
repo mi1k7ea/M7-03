@@ -1,0 +1,10 @@
+[08/04/2020-21:33:19] [INFO] Log level is 4
+[08/04/2020-21:33:19] [INFO] Thread count is 30
+[08/04/2020-21:33:19] [INFO] Sleep time is 1s
+[08/04/2020-21:33:19] [INFO] use fofa database to scan
+[08/04/2020-21:33:20] [INFO] fofa banner info [jquery, ]
+[08/04/2020-21:33:23] [INFO] use whatweb api to scan
+[08/04/2020-21:33:25] [INFO] not found CMS by whatweb
+[08/04/2020-21:33:29] [INFO] use fingerprint database1 to scan
+[08/04/2020-21:33:31] [INFO] found cms [EmpireCMS(µÛ¹ú)]
+[08/04/2020-21:33:32] [INFO] finished
